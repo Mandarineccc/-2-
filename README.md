@@ -42,7 +42,7 @@
 ```
 
 При необходимости прикрепитe сюда скриншоты
-![задание 1](https://github.com/Mandarineccc/klassnagruz/blob/main/11.png)
+[задание 1](https://github.com/Mandarineccc/klassnagruz/blob/main/11.png)
 
 
 ---
@@ -67,7 +67,7 @@
 ```
 
 При необходимости прикрепитe сюда скриншоты
-![задание 2.1](https://github.com/Mandarineccc/klassnagruz/blob/main/2.1.png)
+[задание 2.1](https://github.com/Mandarineccc/klassnagruz/blob/main/2.1.png)
 [задание 2.2](https://github.com/Mandarineccc/klassnagruz/blob/main/2.2.png)
 
 
